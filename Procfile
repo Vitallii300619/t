@@ -1,0 +1,1 @@
+worker: python 1.0.py
